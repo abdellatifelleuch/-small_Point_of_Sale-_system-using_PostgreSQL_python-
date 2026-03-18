@@ -1,0 +1,4 @@
+python -m venv venv
+venv\Scripts\activate   # Windows
+pip install PyQt6 psycopg2-binary Pillow
+pip install PyQt6-tools

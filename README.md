@@ -1,0 +1,1 @@
+# -small_Point_of_Sale-_system-using_PostgreSQL_python-
